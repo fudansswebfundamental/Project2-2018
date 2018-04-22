@@ -4,7 +4,7 @@
 
 前略，Alice 已经完成了艺术品网站的前端设计部分，然而此时该网站只是一个空壳，并不能提供任何实际功能。于是她邀请擅长后端的 Ayaya 来帮她完成后台的设计。
 
-![ayaya](screenshots/ayaya.png)
+<img alt="ayaya" src="screenshots/ayaya.png" height="320">
 
 于是 Ayaya 给出了如下的要求，并表示：
 
